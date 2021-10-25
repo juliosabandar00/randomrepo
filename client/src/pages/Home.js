@@ -5,7 +5,7 @@ function Home() {
     return (
       <div>
         <div className="homeBackground">
-          <h1 className="home-title">Crypto List</h1>
+          <h1 className="home-title">Coinmarketcap</h1>
           <CryptoTracker/>
         </div>
       </div>
